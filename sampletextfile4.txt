@@ -1,1 +1,15 @@
+It has been great collaborating with you on numerous projects we have worked on together. I highly appreciate your pro-active follow ups and deep understanding of client's requirements and use cases. You are very receptive and quick to understand the asks and requirements, and always seeking to help and provide solutions. I am looking forward to our growing partnership as we start integrating new features that your team has developed in Azure DNS.
+I have appreciated your working attitude as a project partner. I appreciate how you handled adversity and ambiguity.
 
+Ranajoy, I like your passion of learning new components/technologies. I observed that, you involve in technical discussions with t team (either in MSRC deep-dive or bug discussions). I hope you will continue to dedicate some time to learn WINET components :)
+You have scoped RS5 deliverables very well for the entire WINET team.
+You have very effective way of tracking work items (either Active branch/servicing bugs or commit status or flighting info) by leveraging existing tools/frameworks. You ensure the work items are hygiene and up-to-date with summary.
+You have clear understanding of WSD processes and you leverage them to achieve more. One example is: I have fixed an IPAM issue in RS5 and we were planning to ship RS4 fix via servicing (though the RS4 RTM is not yet locked). You jumped into the discussion and influenced to take this into RS4 RTM itself.
+
+Ranajoy does ask questions when there is something that he needs for alignment between the feature team & WSD.
+
+Thanks for great work on keeping the focus of the team on AutoRI RS4 deliverables & helping to define a great set of features for RS5. I really appreciate enthusiasm that you show towards work which definitely helps in keeping the team motivated. One of the qualities that differentiate you from the other PMs is that your keenness to invest time in learning the technologies involved and your ability to dive-in deep as needed. I also like the way you leverage your past WSD experience to define the AutoRI scenarios and map WSD processes to them. Overall it has been a pleasure to work with you in your capacity of AutoRI PM.
+
+You are always up for any feature related discussions. I like this a lot, specially when we are on a hot deadline. You help close things faster which is a must in agile world.
+Though you were a bit new to this WiNet area, It does not feel like one. You have ramped up pretty fast & managing things quite extraordinary.
+I closely worked with you on FoD deliverables. You did an excellent job of drafting the clear requirements. You actively take part in healthy discussions with growth Mindset.
